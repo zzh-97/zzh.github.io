@@ -29,9 +29,9 @@
 ---
 
 ### Idols
-#### 🌈🌈Taylor Swift
+#### 🦋🦋 Taylor Swift
 
-<img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em">
+<img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em">
 
 The latest album of Taylor [***'Lover'***](https://music.163.com/#/album?id=80752440)  has been released. **listen and share your feelings** with me **!!!**
 
@@ -41,7 +41,7 @@ The latest album of Taylor [***'Lover'***](https://music.163.com/#/album?id=8075
 >  
 >**Have I known you twenty seconds or twenty years?**  
 
-#### 🇷🇴🇷🇴Simona Halep
+#### 🎾🎾 Simona Halep
  * **A professional tennis player** from Romania
  * Current **world no.6**(14-09-2019) and **former world no.1**(05-10-2017 for the first time)
  * **Two-time grand slam champion**(French Open, 2018. Wimbledon, 2019)
