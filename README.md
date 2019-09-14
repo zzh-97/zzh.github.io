@@ -2,9 +2,7 @@
 
 ### Here is a brief introduction of myself.  
 #### *Short, but interesting~*
-#### 🌈🌈
-
-<img src="images/interesting.jpg" height="180" style="margin-left:5em">
+#### 🌈🌈 <img src="images/interesting.jpg" height="180" style="margin-left:5em">
 
 ### Basic Information
  * Name:  Zihan Zhao/ Hannah
@@ -19,7 +17,7 @@
 ### Current Goals
  * **Be active and healthy**
    * Early to bed
-   * Keep practicing boxing 🥊🥊
+   * Keep practicing boxing 
    * No sweet food ~~🍬🍦☕️🍰🍹~~
    
  * **Be more hard-working**
@@ -31,8 +29,6 @@
 
 ### Idols
 #### 🦋🦋 Taylor Swift
-
-<img src="images/lover.jpeg" height="80" style="margin-left:5em"><img src="images/lover.jpeg" height="80" style="margin-left:5em"><img src="images/lover.jpeg" height="80" style="margin-left:5em">
 
 The latest album of Taylor [***'Lover'***](https://music.163.com/#/album?id=80752440)  has been released. **listen and share your feelings** with me **!!!**
 
