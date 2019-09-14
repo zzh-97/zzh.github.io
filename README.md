@@ -35,7 +35,7 @@
 The latest album of Taylor [***'Lover'***](https://music.163.com/#/album?id=80752440) has been released recently.   
 Go to **listen** and share your **feelings** with me **!!!**
 
-<img src="images/lover2.jpg" height="30" style="margin-left:5em"> | 🎵🎵 | Lyrics of *Lover* | 🎵🎵 | <img src="images/lover2.jpg" height="30" style="margin-left:5em">
+<img src="images/lover2.jpg" height="80" style="margin-left:5em"> | 🎵🎵 | Lyrics of *Lover* | 🎵🎵 | <img src="images/lover2.jpg" height="80" style="margin-left:5em">
 
 >**And there's a dazzling haze, a mysterious way, about you dear.     
 >Have I known you twenty seconds or twenty years?**
