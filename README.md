@@ -50,4 +50,4 @@ Now let's take a look back at **Simona's impressive performance in 2019 Wimbledo
 ---
 
 By the way, recently I've been using **Ora<sup>2</sup> me BREATH Mouthwash**(Juicy Apple), which is **super mild and useful**.   
----------------------------------**🌺🌺 Highly recommended 🌺🌺**---------------------------------
+--------------------------------------**🌺🌺 Highly recommended 🌺🌺**--------------------------------------
