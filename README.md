@@ -32,12 +32,11 @@
 ### Idols
 #### 🦋🦋 Taylor Swift
 
-🎵🎵🎵<img src="images/lover2.jpg" height="80" style="margin-left:5em">🎵🎵🎵<img src="images/lover3.jpg" height="80" style="margin-left:5em">🎵🎵🎵<img src="images/lover2.jpg" height="80" style="margin-left:5em">🎵🎵🎵
-
 The latest album of Taylor [***'Lover'***](https://music.163.com/#/album?id=80752440)  has been released. **listen and share your feelings** with me **!!!**
 
 >Lyrics of ***Lover***   
 >---  
+> <img src="images/lover2.jpg" height="80" style="margin-left:5em">  
 >**And there's a dazzling haze, a mysterious way, about you dear.**  
 >  
 >**Have I known you twenty seconds or twenty years?**  
