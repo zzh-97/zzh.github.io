@@ -31,7 +31,7 @@
 
 ### Idols
 #### 🦋🦋 Taylor Swift
-Taylor's latest album [***Lover***](https://music.163.com/#/album?id=80752440)  has been released recently. **listen and share your feelings** with me **!!!**
+The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id=80752440)  has been released recently. **Listen and share your feelings** with me **!!!**
 
 ---
 
@@ -39,7 +39,7 @@ Taylor's latest album [***Lover***](https://music.163.com/#/album?id=80752440)  
 
 ---
 
->Lyrics of ***Lover***   
+>Part of the lyrics of ***Lover***   
 >---  
 >**And there's a dazzling haze, a mysterious way, about you dear.**  
 >  
