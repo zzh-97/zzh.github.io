@@ -33,7 +33,7 @@
 #### 🦋🦋 Taylor Swift
 ---
 
-<img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover6.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em">
+<img src="images/lover2.jpg" height="80" style="margin-left:5em"><img src="images/lover6.gif" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em">
 
 ---
 
