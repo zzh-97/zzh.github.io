@@ -39,7 +39,7 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 
 ---
 
->Part of the lyrics of ***Lover***   
+>Lyrics of ***Lover***   
 >---  
 >**And there's a dazzling haze, a mysterious way, about you dear.**  
 >  
