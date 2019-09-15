@@ -41,9 +41,9 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 
 >### Lyrics of ***Lover***   
 >---  
->**And there's a dazzling haze, a mysterious way, about you dear.**  
+>***And there's a dazzling haze, a mysterious way, about you dear.***    
 >  
->**Have I known you twenty seconds or twenty years?**  
+>***Have I known you twenty seconds or twenty years?***  
 
 
 ### 🎾🎾 Simona Halep
