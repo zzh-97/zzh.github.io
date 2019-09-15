@@ -58,7 +58,7 @@ Now let's take a look back at **Simona's impressive performance in 2019 Wimbledo
 
 ---
 
-<img src="images/white.png" height="10" style="margin-left:5em"> 
+<img src="images/white.png" height="4" style="margin-left:5em"> 
 
 By the way, recently I've been using **Ora<sup>2</sup> me BREATH & STAIN CLEAR Mouthwash** (Juicy Apple), which is **super mild and useful**.   
 ---------------------------------------------🌺🌺  Highly recommended  🌺🌺---------------------------------------------
