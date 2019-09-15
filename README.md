@@ -19,7 +19,7 @@
 ### Current Goals
  * **Be active and healthy**
    * Early to bed
-   * Keep practicing boxing 
+   * Keep practicing boxing 🥊🥊
    * No sweet food ~~🍬🍦☕️🍰🍹~~
    
  * **Be more hard-working**
