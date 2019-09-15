@@ -6,7 +6,7 @@
 
 <img src="images/interesting.jpg" height="180" style="margin-left:5em">
 
-### Basic Information
+## Basic Information
  * Name:  Zihan Zhao/ Hannah
  * Sex:  Female
  * Date of birth:  20-05-1997
@@ -16,7 +16,7 @@
  
 ---
 
-### Current Goals
+## Current Goals
  * **Be active and healthy**
    * Early to bed
    * Keep practicing boxing 🥊🥊
@@ -29,24 +29,24 @@
    
 ---
 
-### Idols
-#### 🦋🦋 Taylor Swift
+## Idols
+### 🦋🦋 Taylor Swift
 The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id=80752440)  has been released recently. **Listen and share your feelings** with me **!!!**
 
 ---
 
-<img src="images/lover3.jpg" height="80" style="margin-left:5em"><img src="images/lover4.jpg" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em">
+<img src="images/lover3.jpg" height="80" style="margin-left:5em"><img src="images/lover6.gif" height="80" style="margin-left:5em"><img src="images/lover2.jpg" height="80" style="margin-left:5em">
 
 ---
 
->Lyrics of ***Lover***   
+>### Lyrics of ***Lover***   
 >---  
 >**And there's a dazzling haze, a mysterious way, about you dear.**  
 >  
 >**Have I known you twenty seconds or twenty years?**  
 
 
-#### 🎾🎾 Simona Halep
+### 🎾🎾 Simona Halep
 
  * **A professional tennis player** from Romania
  * Current **world no.6** (14-09-2019) and **former world no.1** (05-10-2017 for the first time)
