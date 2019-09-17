@@ -33,7 +33,6 @@
 ### 🦋🦋 Taylor Swift
 The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id=80752440)  has been released recently. **Listen and share your feelings** with me **!!!**
 
----
 
 <img src="images/lover11.jpg" height="300" style="margin-left:5em">
 
@@ -45,6 +44,7 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 >  
 >***Have I known you twenty seconds or twenty years?***  
 
+<img src="images/lover11.jpg" height="300" style="margin-left:5em">
 
 ### 🎾🎾 Simona Halep
 
