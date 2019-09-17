@@ -33,7 +33,6 @@
 ### 🦋🦋 Taylor Swift
 The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id=80752440)  has been released recently. **Listen and share your feelings** with me **!!!**
 
----
 
 <img src="images/lover8.gif" height="80" style="margin-left:5em"><img src="images/lover11.jpg" height="80" style="margin-left:5em"><img src="images/lover8.gif" height="80" style="margin-left:5em">
 
@@ -41,9 +40,12 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 
 >### Lyrics of ***Lover***   
 >---  
->***And there's a dazzling haze, a mysterious way, about you dear.***    
+>***And there's a dazzling haze***    
+>***A mysterious way***  
+>***About you dear.***    
 >  
->***Have I known you twenty seconds or twenty years?***  
+>***Have I known you twenty seconds***  
+>***Or twenty years?***  
 
 <img src="images/640-8.gif" height="300" style="margin-left:5em">
 
