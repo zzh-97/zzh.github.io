@@ -43,6 +43,7 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 >***[Lover](https://music.163.com/#/mv?id=10886105)***  
 
 <img src="images/white.png" height="4" style="margin-left:5em"> 
+
 <img src="images/640-8.gif" height="300" style="margin-left:5em">
 
 >### Lyrics of ***Lover***   
