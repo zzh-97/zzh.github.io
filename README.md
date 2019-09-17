@@ -36,6 +36,13 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 
 <img src="images/lover8.gif" height="320" style="margin-left:5em">
 
+>### Music Videos  
+>---  
+>***[You need to calm down](https://music.163.com/#/mv?id=10873182)***
+>  
+>***[Lover](https://music.163.com/#/mv?id=10886105)***  
+
+<img src="images/white.png" height="4" style="margin-left:5em"> 
 <img src="images/640-8.gif" height="300" style="margin-left:5em">
 
 >### Lyrics of ***Lover***   
@@ -44,15 +51,7 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 >  
 >***Have I known you twenty seconds or twenty years?***  
 
-
-
->### Music Videos  
->---  
->***[You need to calm down](https://music.163.com/#/mv?id=10873182)***
->  
->***[Lover](https://music.163.com/#/mv?id=10886105)***  
-
----
+<img src="images/white.png" height="4" style="margin-left:5em"> 
 
 ### 🎾🎾 Simona Halep
 
