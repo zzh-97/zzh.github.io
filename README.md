@@ -35,7 +35,8 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 
 
 
-<img src="images/lover8.gif" height="100" style="margin-left:5em"><img src="images/lover11.jpg" height="100" style="margin-left:5em"><img src="images/lover8.gif" height="100" style="margin-left:5em">
+<img src="images/lover8.gif" height="150" style="margin-left:5em"><img src="images/lover11.jpg" height="150" style="margin-left:5em"><img src="images/lover8.gif" height="150" style="margin-left:5em"><img src="images/640-8.gif" height="200" style="margin-left:5em">
+
 ---
 
 >### Lyrics of ***Lover***   
@@ -52,9 +53,6 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 >  
 >***[Lover](https://music.163.com/#/mv?id=10886105)***  
 
-<img src="images/640-5.gif" height="200" style="margin-left:5em">
-<img src="images/640-8.gif" height="200" style="margin-left:5em">
-<img src="images/640-2.gif" height="200" style="margin-left:5em">
 
 ### 🎾🎾 Simona Halep
 
