@@ -45,6 +45,8 @@ The latest album of Taylor called [***Lover***](https://music.163.com/#/album?id
 >  
 >***Have I known you twenty seconds or twenty years?***  
 
+<img src="images/640-8.gif" height="300" style="margin-left:5em">
+
 ---
 
 >### Music Videos  
